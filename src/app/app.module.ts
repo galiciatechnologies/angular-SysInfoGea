@@ -13,6 +13,8 @@ import { CartService } from './cart.service';
 import { CartComponent } from './cart/cart.component';
 import { ShippingComponent } from './shipping/shipping.component';
 
+
+
 // aquí se ponen los ruteos url.
 @NgModule({
   imports: [
